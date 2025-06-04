@@ -14,11 +14,12 @@ const AppIcon = ({ name, className }) => {
 };
 
 AppIcon.propTypes = {
-  name: PropTypes.string.isRequired,
+  name: PropTypes.string,
   className: PropTypes.string,
 };
 
 AppIcon.defaultProps = {
+  name: 'AlertCircle',
   className: '',
 };
 
