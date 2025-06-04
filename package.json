@@ -21,7 +21,8 @@
     "@reduxjs/toolkit": "2.7.0",
     "apexcharts": "^4.7.0",
     "react-apexcharts": "^1.7.0",
-    "prop-types": "^15.8.1"
+    "prop-types": "^15.8.1",
+    "react-feather": "^2.0.10"
   },
   "devDependencies": {
     "@types/react": "^18.2.15",
