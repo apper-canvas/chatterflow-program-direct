@@ -1,0 +1,110 @@
+[
+  {
+    "userId": "user_1",
+    "phoneNumber": "+1234567890",
+    "displayName": "You",
+    "profilePhoto": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=100&h=100&fit=crop&crop=face",
+    "status": "Available for chat",
+    "lastSeen": "2024-01-15T17:00:00Z",
+    "isOnline": true
+  },
+  {
+    "userId": "user_2",
+    "phoneNumber": "+1234567891",
+    "displayName": "Sarah Chen",
+    "profilePhoto": "https://images.unsplash.com/photo-1494790108755-2616b612b786?w=100&h=100&fit=crop&crop=face",
+    "status": "Working remotely today",
+    "lastSeen": "2024-01-15T16:45:00Z",
+    "isOnline": true
+  },
+  {
+    "userId": "user_3",
+    "phoneNumber": "+1234567892",
+    "displayName": "Alex Rodriguez",
+    "profilePhoto": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=100&h=100&fit=crop&crop=face",
+    "status": "At the gym 💪",
+    "lastSeen": "2024-01-15T14:30:00Z",
+    "isOnline": false
+  },
+  {
+    "userId": "user_4",
+    "phoneNumber": "+1234567893",
+    "displayName": "Emily Watson",
+    "profilePhoto": "https://images.unsplash.com/photo-1438761681033-6461ffad8d80?w=100&h=100&fit=crop&crop=face",
+    "status": "Busy with meetings",
+    "lastSeen": "2024-01-15T13:15:00Z",
+    "isOnline": true
+  },
+  {
+    "userId": "user_5",
+    "phoneNumber": "+1234567894",
+    "displayName": "Michael Johnson",
+    "profilePhoto": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?w=100&h=100&fit=crop&crop=face",
+    "status": "Coffee enthusiast ☕",
+    "lastSeen": "2024-01-15T11:20:00Z",
+    "isOnline": false
+  },
+  {
+    "userId": "user_6",
+    "phoneNumber": "+1234567895",
+    "displayName": "Jessica Liu",
+    "profilePhoto": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?w=100&h=100&fit=crop&crop=face",
+    "status": "Birthday month! 🎉",
+    "lastSeen": "2024-01-15T10:05:00Z",
+    "isOnline": false
+  },
+  {
+    "userId": "user_7",
+    "phoneNumber": "+1234567896",
+    "displayName": "David Kim",
+    "profilePhoto": "https://images.unsplash.com/photo-1506794778202-cad84cf45f1d?w=100&h=100&fit=crop&crop=face",
+    "status": "Exploring the city",
+    "lastSeen": "2024-01-15T09:30:00Z",
+    "isOnline": false
+  },
+  {
+    "userId": "user_8",
+    "phoneNumber": "+1234567897",
+    "displayName": "Rachel Green",
+    "profilePhoto": "https://images.unsplash.com/photo-1544725176-7c40e5a71c5e?w=100&h=100&fit=crop&crop=face",
+    "status": "Designer & dreamer",
+    "lastSeen": "2024-01-14T18:45:00Z",
+    "isOnline": false
+  },
+  {
+    "userId": "user_9",
+    "phoneNumber": "+1234567898",
+    "displayName": "James Wilson",
+    "profilePhoto": "https://images.unsplash.com/photo-1547425260-76bcadfb4f2c?w=100&h=100&fit=crop&crop=face",
+    "status": "Building the future",
+    "lastSeen": "2024-01-14T16:20:00Z",
+    "isOnline": false
+  },
+  {
+    "userId": "user_10",
+    "phoneNumber": "+1234567899",
+    "displayName": "Sofia Martinez",
+    "profilePhoto": "https://images.unsplash.com/photo-1487412720507-e7ab37603c6f?w=100&h=100&fit=crop&crop=face",
+    "status": "Adventure seeker 🏔️",
+    "lastSeen": "2024-01-14T14:15:00Z",
+    "isOnline": false
+  },
+  {
+    "userId": "user_11",
+    "phoneNumber": "+1234567800",
+    "displayName": "Chris Anderson",
+    "profilePhoto": "https://images.unsplash.com/photo-1492562080023-ab3db95bfbce?w=100&h=100&fit=crop&crop=face",
+    "status": "Project manager extraordinaire",
+    "lastSeen": "2024-01-14T12:30:00Z",
+    "isOnline": false
+  },
+  {
+    "userId": "user_12",
+    "phoneNumber": "+1234567801",
+    "displayName": "Maya Patel",
+    "profilePhoto": "https://images.unsplash.com/photo-1489424731084-a5d8b219a5bb?w=100&h=100&fit=crop&crop=face",
+    "status": "Code, create, repeat",
+    "lastSeen": "2024-01-14T10:00:00Z",
+    "isOnline": false
+  }
+]

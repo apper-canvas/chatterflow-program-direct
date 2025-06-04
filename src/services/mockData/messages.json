@@ -1,0 +1,272 @@
+[
+  {
+    "messageId": "msg_1",
+    "conversationId": "conv_1",
+    "senderId": "user_1",
+    "content": "Hey! How was your day?",
+    "type": "text",
+    "timestamp": "2024-01-15T15:30:00Z",
+    "status": "read"
+  },
+  {
+    "messageId": "msg_2",
+    "conversationId": "conv_1",
+    "senderId": "user_2",
+    "content": "It was great! Just finished a big project at work. How about you?",
+    "type": "text",
+    "timestamp": "2024-01-15T15:32:00Z",
+    "status": "delivered"
+  },
+  {
+    "messageId": "msg_3",
+    "conversationId": "conv_1",
+    "senderId": "user_1",
+    "content": "That's awesome! I had a productive day too. Want to grab dinner tomorrow?",
+    "type": "text",
+    "timestamp": "2024-01-15T15:35:00Z",
+    "status": "read"
+  },
+  {
+    "messageId": "msg_4",
+    "conversationId": "conv_1",
+    "senderId": "user_2",
+    "content": "Absolutely! That new Italian place downtown?",
+    "type": "text",
+    "timestamp": "2024-01-15T15:37:00Z",
+    "status": "delivered"
+  },
+  {
+    "messageId": "msg_5",
+    "conversationId": "conv_1",
+    "senderId": "user_1",
+    "content": "Perfect! Let's meet at 7 PM",
+    "type": "text",
+    "timestamp": "2024-01-15T15:40:00Z",
+    "status": "read"
+  },
+  {
+    "messageId": "msg_15",
+    "conversationId": "conv_1",
+    "senderId": "user_2",
+    "content": "See you tomorrow! 👋",
+    "type": "text",
+    "timestamp": "2024-01-15T16:45:00Z",
+    "status": "sent"
+  },
+  {
+    "messageId": "msg_6",
+    "conversationId": "conv_2",
+    "senderId": "user_3",
+    "content": "Hi! Are you free to help me with the presentation?",
+    "type": "text",
+    "timestamp": "2024-01-15T14:00:00Z",
+    "status": "read"
+  },
+  {
+    "messageId": "msg_7",
+    "conversationId": "conv_2",
+    "senderId": "user_1",
+    "content": "Of course! What do you need help with?",
+    "type": "text",
+    "timestamp": "2024-01-15T14:05:00Z",
+    "status": "read"
+  },
+  {
+    "messageId": "msg_8",
+    "conversationId": "conv_2",
+    "senderId": "user_3",
+    "content": "I need to improve the slide design and flow",
+    "type": "text",
+    "timestamp": "2024-01-15T14:10:00Z",
+    "status": "read"
+  },
+  {
+    "messageId": "msg_23",
+    "conversationId": "conv_2",
+    "senderId": "user_3",
+    "content": "Thanks for the help with the project!",
+    "type": "text",
+    "timestamp": "2024-01-15T14:30:00Z",
+    "status": "delivered"
+  },
+  {
+    "messageId": "msg_9",
+    "conversationId": "conv_3",
+    "senderId": "user_4",
+    "content": "Good morning! Ready for the big presentation today?",
+    "type": "text",
+    "timestamp": "2024-01-15T09:00:00Z",
+    "status": "read"
+  },
+  {
+    "messageId": "msg_10",
+    "conversationId": "conv_3",
+    "senderId": "user_1",
+    "content": "Yes! I'm a bit nervous but prepared",
+    "type": "text",
+    "timestamp": "2024-01-15T09:15:00Z",
+    "status": "read"
+  },
+  {
+    "messageId": "msg_11",
+    "conversationId": "conv_3",
+    "senderId": "user_4",
+    "content": "You'll do great! I believe in you 💪",
+    "type": "text",
+    "timestamp": "2024-01-15T09:20:00Z",
+    "status": "read"
+  },
+  {
+    "messageId": "msg_31",
+    "conversationId": "conv_3",
+    "senderId": "user_4",
+    "content": "The presentation went really well! 🎉",
+    "type": "text",
+    "timestamp": "2024-01-15T13:15:00Z",
+    "status": "sent"
+  },
+  {
+    "messageId": "msg_12",
+    "conversationId": "conv_4",
+    "senderId": "user_5",
+    "content": "Hey, about our meeting tomorrow...",
+    "type": "text",
+    "timestamp": "2024-01-15T11:00:00Z",
+    "status": "read"
+  },
+  {
+    "messageId": "msg_13",
+    "conversationId": "conv_4",
+    "senderId": "user_1",
+    "content": "Yes, what about it?",
+    "type": "text",
+    "timestamp": "2024-01-15T11:10:00Z",
+    "status": "read"
+  },
+  {
+    "messageId": "msg_42",
+    "conversationId": "conv_4",
+    "senderId": "user_5",
+    "content": "Can we reschedule the meeting?",
+    "type": "text",
+    "timestamp": "2024-01-15T11:20:00Z",
+    "status": "delivered"
+  },
+  {
+    "messageId": "msg_14",
+    "conversationId": "conv_5",
+    "senderId": "user_6",
+    "content": "Thank you so much for remembering! 🥰",
+    "type": "text",
+    "timestamp": "2024-01-15T10:05:00Z",
+    "status": "read"
+  },
+  {
+    "messageId": "msg_55",
+    "conversationId": "conv_5",
+    "senderId": "user_1",
+    "content": "Happy birthday! 🎂🎈",
+    "type": "text",
+    "timestamp": "2024-01-15T10:00:00Z",
+    "status": "delivered"
+  },
+  {
+    "messageId": "msg_16",
+    "conversationId": "conv_6",
+    "senderId": "user_7",
+    "content": "Have you tried the new coffee shop on Main Street?",
+    "type": "text",
+    "timestamp": "2024-01-15T09:00:00Z",
+    "status": "read"
+  },
+  {
+    "messageId": "msg_17",
+    "conversationId": "conv_6",
+    "senderId": "user_1",
+    "content": "Not yet, is it good?",
+    "type": "text",
+    "timestamp": "2024-01-15T09:15:00Z",
+    "status": "read"
+  },
+  {
+    "messageId": "msg_67",
+    "conversationId": "conv_6",
+    "senderId": "user_7",
+    "content": "The coffee shop is really nice!",
+    "type": "text",
+    "timestamp": "2024-01-15T09:30:00Z",
+    "status": "delivered"
+  },
+  {
+    "messageId": "msg_18",
+    "conversationId": "conv_7",
+    "senderId": "user_8",
+    "content": "I'm on my way to the office",
+    "type": "text",
+    "timestamp": "2024-01-14T18:30:00Z",
+    "status": "read"
+  },
+  {
+    "messageId": "msg_78",
+    "conversationId": "conv_7",
+    "senderId": "user_8",
+    "content": "Let me know when you arrive",
+    "type": "text",
+    "timestamp": "2024-01-14T18:45:00Z",
+    "status": "delivered"
+  },
+  {
+    "messageId": "msg_19",
+    "conversationId": "conv_8",
+    "senderId": "user_1",
+    "content": "Just finished the new design mockups",
+    "type": "text",
+    "timestamp": "2024-01-14T16:00:00Z",
+    "status": "read"
+  },
+  {
+    "messageId": "msg_89",
+    "conversationId": "conv_8",
+    "senderId": "user_9",
+    "content": "Great job on the design! 👏",
+    "type": "text",
+    "timestamp": "2024-01-14T16:20:00Z",
+    "status": "sent"
+  },
+  {
+    "messageId": "msg_20",
+    "conversationId": "conv_9",
+    "senderId": "user_10",
+    "content": "How was your weekend trip?",
+    "type": "text",
+    "timestamp": "2024-01-14T14:00:00Z",
+    "status": "read"
+  },
+  {
+    "messageId": "msg_95",
+    "conversationId": "conv_9",
+    "senderId": "user_10",
+    "content": "The weekend trip was amazing!",
+    "type": "text",
+    "timestamp": "2024-01-14T14:15:00Z",
+    "status": "delivered"
+  },
+  {
+    "messageId": "msg_21",
+    "conversationId": "conv_10",
+    "senderId": "user_11",
+    "content": "Hi there! Just a friendly reminder",
+    "type": "text",
+    "timestamp": "2024-01-14T12:00:00Z",
+    "status": "read"
+  },
+  {
+    "messageId": "msg_102",
+    "conversationId": "conv_10",
+    "senderId": "user_11",
+    "content": "Don't forget about tomorrow's deadline",
+    "type": "text",
+    "timestamp": "2024-01-14T12:30:00Z",
+    "status": "sent"
+  }
+]

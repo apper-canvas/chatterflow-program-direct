@@ -1,0 +1,142 @@
+[
+  {
+    "conversationId": "conv_1",
+    "type": "individual",
+    "participants": ["user_1", "user_2"],
+    "lastMessage": {
+      "messageId": "msg_15",
+      "content": "See you tomorrow! 👋",
+      "timestamp": "2024-01-15T16:45:00Z",
+      "senderId": "user_2"
+    },
+    "unreadCount": 2,
+    "isPinned": true,
+    "isMuted": false
+  },
+  {
+    "conversationId": "conv_2",
+    "type": "individual",
+    "participants": ["user_1", "user_3"],
+    "lastMessage": {
+      "messageId": "msg_23",
+      "content": "Thanks for the help with the project!",
+      "timestamp": "2024-01-15T14:30:00Z",
+      "senderId": "user_3"
+    },
+    "unreadCount": 0,
+    "isPinned": false,
+    "isMuted": false
+  },
+  {
+    "conversationId": "conv_3",
+    "type": "individual",
+    "participants": ["user_1", "user_4"],
+    "lastMessage": {
+      "messageId": "msg_31",
+      "content": "The presentation went really well! 🎉",
+      "timestamp": "2024-01-15T13:15:00Z",
+      "senderId": "user_4"
+    },
+    "unreadCount": 1,
+    "isPinned": false,
+    "isMuted": false
+  },
+  {
+    "conversationId": "conv_4",
+    "type": "individual",
+    "participants": ["user_1", "user_5"],
+    "lastMessage": {
+      "messageId": "msg_42",
+      "content": "Can we reschedule the meeting?",
+      "timestamp": "2024-01-15T11:20:00Z",
+      "senderId": "user_5"
+    },
+    "unreadCount": 0,
+    "isPinned": false,
+    "isMuted": true
+  },
+  {
+    "conversationId": "conv_5",
+    "type": "individual",
+    "participants": ["user_1", "user_6"],
+    "lastMessage": {
+      "messageId": "msg_55",
+      "content": "Happy birthday! 🎂🎈",
+      "timestamp": "2024-01-15T10:00:00Z",
+      "senderId": "user_1"
+    },
+    "unreadCount": 3,
+    "isPinned": false,
+    "isMuted": false
+  },
+  {
+    "conversationId": "conv_6",
+    "type": "individual",
+    "participants": ["user_1", "user_7"],
+    "lastMessage": {
+      "messageId": "msg_67",
+      "content": "The coffee shop is really nice!",
+      "timestamp": "2024-01-15T09:30:00Z",
+      "senderId": "user_7"
+    },
+    "unreadCount": 0,
+    "isPinned": false,
+    "isMuted": false
+  },
+  {
+    "conversationId": "conv_7",
+    "type": "individual",
+    "participants": ["user_1", "user_8"],
+    "lastMessage": {
+      "messageId": "msg_78",
+      "content": "Let me know when you arrive",
+      "timestamp": "2024-01-14T18:45:00Z",
+      "senderId": "user_8"
+    },
+    "unreadCount": 0,
+    "isPinned": false,
+    "isMuted": false
+  },
+  {
+    "conversationId": "conv_8",
+    "type": "individual",
+    "participants": ["user_1", "user_9"],
+    "lastMessage": {
+      "messageId": "msg_89",
+      "content": "Great job on the design! 👏",
+      "timestamp": "2024-01-14T16:20:00Z",
+      "senderId": "user_9"
+    },
+    "unreadCount": 1,
+    "isPinned": false,
+    "isMuted": false
+  },
+  {
+    "conversationId": "conv_9",
+    "type": "individual",
+    "participants": ["user_1", "user_10"],
+    "lastMessage": {
+      "messageId": "msg_95",
+      "content": "The weekend trip was amazing!",
+      "timestamp": "2024-01-14T14:15:00Z",
+      "senderId": "user_10"
+    },
+    "unreadCount": 0,
+    "isPinned": true,
+    "isMuted": false
+  },
+  {
+    "conversationId": "conv_10",
+    "type": "individual",
+    "participants": ["user_1", "user_11"],
+    "lastMessage": {
+      "messageId": "msg_102",
+      "content": "Don't forget about tomorrow's deadline",
+      "timestamp": "2024-01-14T12:30:00Z",
+      "senderId": "user_11"
+    },
+    "unreadCount": 2,
+    "isPinned": false,
+    "isMuted": false
+  }
+]
