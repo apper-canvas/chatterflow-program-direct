@@ -14,7 +14,7 @@ const ChatInterfaceTemplate = ({
   users,
   messages,
   currentUser,
-  activeConversation,
+  activeConversation = null,
   setActiveConversation,
   messageText,
   setMessageText,
@@ -24,7 +24,7 @@ const ChatInterfaceTemplate = ({
   onlineUsers,
   handleSendMessage,
   loading,
-  error,
+  error = null,
 }) => {
   const getUserById = (userId) => {
     return users.find(u => u.userId === userId) || { displayName: "Unknown User", profilePhoto: "" };
@@ -125,11 +125,6 @@ ChatInterfaceTemplate.propTypes = {
   handleSendMessage: PropTypes.func.isRequired,
   loading: PropTypes.bool.isRequired,
   error: PropTypes.string,
-};
-
-ChatInterfaceTemplate.defaultProps = {
-  activeConversation: null,
-  error: null,
 };
 
 export default ChatInterfaceTemplate;
