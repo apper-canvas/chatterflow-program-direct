@@ -2,7 +2,7 @@ import React from 'react';
 import PropTypes from 'prop-types';
 import * as FeatherIcons from 'react-feather';
 
-const AppIcon = ({ name, className }) => {
+const AppIcon = ({ name = 'AlertCircle', className = '' }) => {
   const IconComponent = FeatherIcons[name];
 
   if (!IconComponent) {
@@ -16,11 +16,6 @@ const AppIcon = ({ name, className }) => {
 AppIcon.propTypes = {
   name: PropTypes.string,
   className: PropTypes.string,
-};
-
-AppIcon.defaultProps = {
-  name: 'AlertCircle',
-  className: '',
 };
 
 export default AppIcon;
