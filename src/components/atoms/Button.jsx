@@ -1,8 +1,16 @@
 import React from 'react';
-import PropTypes from 'prop-types';
 import { motion } from 'framer-motion';
+import PropTypes from 'prop-types';
 
-const Button = ({ children, onClick, className, disabled, variant, icon: Icon, ...props }) => {
+const Button = ({ 
+  children = null, 
+  onClick = () => {},
+  className = '', 
+  disabled = false, 
+  variant = 'primary', 
+  icon: Icon = null, 
+  ...props 
+}) => {
   const baseClasses = 'p-2 rounded-full transition-colors flex items-center justify-center';
   const variantClasses = {
     primary: 'bg-primary hover:bg-primary-dark text-white',
@@ -33,15 +41,6 @@ Button.propTypes = {
   disabled: PropTypes.bool,
   variant: PropTypes.oneOf(['primary', 'secondary', 'icon', 'icon-alt']),
   icon: PropTypes.elementType, // For React Feather icon component
-};
-
-Button.defaultProps = {
-  children: null,
-  onClick: () => {},
-  className: '',
-  disabled: false,
-  variant: 'primary',
-  icon: null,
 };
 
 export default Button;
